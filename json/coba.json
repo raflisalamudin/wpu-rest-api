@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Ahmad",
+    "umur": 23,
+    "npm": "2019804265",
+    "lulus": true,
+    "hobi": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Jumiran",
+      "pembimbing2": "Yosua"
+    }
+  },
+  {
+    "nama": "Ahmad",
+    "umur": 23,
+    "npm": "2019804265",
+    "lulus": true,
+    "hobi": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Jumiran",
+      "pembimbing2": "Yosua"
+    }
+  }
+]
